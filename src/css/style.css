@@ -1,0 +1,50 @@
+.align {
+  display: flex;
+}
+
+[type=text] {
+  width: 50px;
+}
+
+.position {
+  position: absolute;
+  top: 4.3rem;
+  left: 20rem;
+}
+
+.dflex{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
+
+.marginleft2{
+  margin-left: 6rem;
+}
+
+.btn{
+  margin: 1rem 0;
+  padding: 0.3rem;
+  width: 4rem;
+  cursor: pointer;
+}
+
+.bgcolor{
+  background-color:lightblue;
+}
+
+.color{
+ background-color: aqua;
+}
+
+.text{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
+
